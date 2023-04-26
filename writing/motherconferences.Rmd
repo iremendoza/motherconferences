@@ -1,0 +1,14 @@
+---
+title: How to make scientific conferences be more inclusive for scientist mothers
+  with caring responsabilities?
+author: "Irene Mendoza"
+date: "2023-04-25"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
