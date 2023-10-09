@@ -12,3 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Abstract
 
+Scientific conferences are a critical aspect of academic research and career development. These events provide a platform for researchers to stay up-to-date on the latest advances in their field, exchange ideas, and connect with peers. However, for scientist-mothers, attending conferences can be challenging due to the "baby penalty." This penalty refers to the difficulty nursing mothers face when traveling long distances or attending talks for long days, which can create serious economic and logistic restrictions with harmful consequences for their careers. To address this issue, it is crucial to make scientific conferences more inclusive for scientist-mothers. In this review, I will present several case studies of international conferences in the field of Ecology, critically analyzing their policies of child care and facilities for families. I have differentiated among measures affecting the childcare policy of the events, others reducing logistic barriers for nursing mothers and finally, economic measures that provide support for scientists attending with children. Although awareness on the topic has increased over the last years, unfortunately, not all organizers consider childcare before organizing conferences. Basic measures like providing breastfeeding or family rooms and allowing children in social activities can help attendees. Free entrance for accompanying person, or economic grants for nursing mothers or subsides to families are even less common. By making conferences more inclusive, we can reduce bias against female scientists and increase diversity and equity in science. This can also help reducing the leaking pipeline of women in the academic career, as conferences are essential for boosting collaborations.
+
+## Outline
+
+-Introduction: conundrum of attendance to scientific conferences
+-Methods: review of Ecological conferences in the last two years
+-
+
