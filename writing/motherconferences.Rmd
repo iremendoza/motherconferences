@@ -1,6 +1,6 @@
 ---
-title: How to make scientific conferences be more inclusive for scientist mothers
-  with caring responsabilities?
+title: Ten simple rules for making conferences more inclusive for women scientists with dependent children
+  
 author: "Irene Mendoza"
 date: "2023-04-25"
 output: word_document
@@ -10,7 +10,9 @@ output: word_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Abstract
+### How to make scientific conferences be more inclusive for scientists with children-caring responsabilities?
+
+## Abstract for AEET Conference
 
 Scientific conferences are a critical aspect of academic research and career development. These events provide a platform for researchers to stay up-to-date on the latest advances in their field, exchange ideas, and connect with peers. However, for scientist-mothers, attending conferences can be challenging due to the "baby penalty." This penalty refers to the difficulty nursing mothers face when traveling long distances or attending talks for long days, which can create serious economic and logistic restrictions with harmful consequences for their careers. To address this issue, it is crucial to make scientific conferences more inclusive for scientist-mothers. In this review, I will present several case studies of international conferences in the field of Ecology, critically analyzing their policies of child care and facilities for families. I have differentiated among measures affecting the childcare policy of the events, others reducing logistic barriers for nursing mothers and finally, economic measures that provide support for scientists attending with children. Although awareness on the topic has increased over the last years, unfortunately, not all organizers consider childcare before organizing conferences. Basic measures like providing breastfeeding or family rooms and allowing children in social activities can help attendees. Free entrance for accompanying person, or economic grants for nursing mothers or subsides to families are even less common. By making conferences more inclusive, we can reduce bias against female scientists and increase diversity and equity in science. This can also help reducing the leaking pipeline of women in the academic career, as conferences are essential for boosting collaborations.
 
@@ -18,5 +20,43 @@ Scientific conferences are a critical aspect of academic research and career dev
 
 -Introduction: conundrum of attendance to scientific conferences
 -Methods: review of Ecological conferences in the last two years
--
+
+#Introduction
+
+Types of measures:
+
+1- Change of mentality regarding children at conferences
+2- Organization measures
+3- Economic support
+
+#Rules
+#Rule 1: Make a conference children-friendly (ie, explicitly allow children attendance)
+
+
+#Rule 2: Look for a safe and family-friendly conference venue
+Conference venues at safe locations not only is helpful for scientists taking with them their family, but also for female attendants in genera.
+
+"Location, conference venue and hotel, is important for conference planning committees and maybe even more so for those with families. Pregnant women or families may not be a priority for conference planning committees, but they might consider their needs when selecting sites. Or at least realize that without accommodations, such as lounge space, and other family friendly planning, individuals are left to decide if they belong at academic and professional conferences when it can be challenging and even unwelcoming."
+
+#Rule 3: give facilities for breastfeeding, changing nappies, heating food, family room...
+One of the simplest measures, is to explicitly allow and encourage attending women to breastfeed their babies during conferences. Also, organizers should provide a comfortable and safe room for families, with a private space for breastfeeding or milk pumping.
+
+
+#Rule 4: Make schedule of attending mothers compatible with children 
+
+Organizing more relaxed schedules at conferences is also very helpful for scientists attending with families or pregnant women (and for everyone in general, because conferences tend to be too busy). Try to be flexible for the parents presenting talks, given them the chance to choose the most suitable timing for their presentation, especially avoiding very late timing. 
+
+(a very interesting reflection on the topic here: https://insidehighered.com/advice/2014/01/27/essay-attending-academic-conference-while-pregnant)
+
+#Rule 5: Facilitate online or mixed formats 
+Advantages of in-person conferences vs. online conference are mostly due to networking and personal contact. For online attendants, this migth be lost, but a possibility is to create virtual meeting rooms for them to interact. 
+
+#Rule 6: Facilitate onsite childcare with the hiring of a professional service with no (or reduced) cost for participants
+
+#Rule 7: Create discounted parent/carer registrations
+
+#Rule 8: Bourse student attendants carrying on children
+
+#Rule 9
+
 
